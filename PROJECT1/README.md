@@ -38,9 +38,6 @@ The dataset contains information related to online orders, including customer de
 * Google Colab
 * Pandas
 
-
-```
-
 ## Results
 
 * Missing values were identified and handled.
